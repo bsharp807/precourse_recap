@@ -35,4 +35,4 @@
     pinNumber: 1234,
     tel: 999999
   }
-  console.log(person);
+  console.log(person.name);
